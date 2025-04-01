@@ -1,5 +1,5 @@
 module.exports = {
-    PREFIX: "THARUWA-MD~~~~",
+    PREFIX: "THARUWA-MD~",
     CONNECTED_MESSAGE: `
 
 *✅sᴇssɪᴏɴ ɪᴅ ɢᴇɴᴇʀᴀᴛᴇᴅ✅*
